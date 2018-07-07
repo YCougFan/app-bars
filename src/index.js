@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
 
-import SimpleAppBar from './SimpleAppBar';
+import AppBars from './AppBars';
 
-ReactDOM.render(<SimpleAppBar />, document.getElementById('root'));
+ReactDOM.render(<AppBars />, document.getElementById('root'));
